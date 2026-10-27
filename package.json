@@ -1,0 +1,27 @@
+{
+  "name": "itmis-web",
+  "version": "1.0.0",
+  "description": "ITMIS Web - Ministry of Finance Sri Lanka",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITMISMOF/ITMIS-Web.git"
+  },
+  "keywords": [
+    "itmis",
+    "finance",
+    "sri-lanka"
+  ],
+  "author": "ITMIS PMU Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ITMISMOF/ITMIS-Web/issues"
+  },
+  "homepage": "https://github.com/ITMISMOF/ITMIS-Web#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
